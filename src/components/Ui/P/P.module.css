@@ -1,0 +1,12 @@
+.P{
+    color :#ffff;
+    font-weight: bold;
+    font-size: medium;
+
+}
+.failed {
+color :#f44336;
+}
+.success{
+    color : #4caf50;
+}
